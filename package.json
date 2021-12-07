@@ -1,0 +1,24 @@
+{
+  "name": "node-datatable",
+  "version": "1.0.0",
+  "description": "Server-side rendering with NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emagombe/node-datatable.git"
+  },
+  "author": "Edson Magombe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emagombe/node-datatable/issues"
+  },
+  "homepage": "https://github.com/emagombe/node-datatable#readme",
+  "devDependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.15"
+  }
+}
